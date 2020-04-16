@@ -5,3 +5,5 @@ Working around with Fast.ai
 2. Creating an app on local to classify images
 
 ### Results:
+
+![](Images/pichu)
