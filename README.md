@@ -6,4 +6,4 @@ Working around with Fast.ai
 
 ### Results:
 
-![](Images/pichu.png=2500x2500) | ![](Images/jigglypuff.png=250x250)
+![](Images/pichu.png =250x250) | ![](Images/jigglypuff.png =250x250)
