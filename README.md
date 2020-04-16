@@ -6,4 +6,4 @@ Working around with Fast.ai
 
 ### Results:
 
-<img src ="Images/pichu.png" width='200' height='200'> | ![](Images/jigglypuff.png)
+<img src ="Images/pichu.png" width='400' height='600'> | <img src ="Images/jigglypuff.png" width='400' height='600'>
