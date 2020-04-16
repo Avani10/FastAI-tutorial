@@ -6,4 +6,4 @@ Working around with Fast.ai
 
 ### Results:
 
-<img src ="Images/pichu.png" width='500' height='600'> | <img src ="Images/jigglypuff.png" width='500' height='600'>
+<img src ="Images/pichu.png" width='450' height='600'> | <img src ="Images/jigglypuff.png" width='450' height='600'>
