@@ -6,4 +6,4 @@ Working around with Fast.ai
 
 ### Results:
 
-![]('Images/pichu.png')
+![](Images/pichu.png)
