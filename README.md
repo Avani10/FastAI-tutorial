@@ -1,5 +1,5 @@
 # FastAI-tutorial
-Working around with Fast.ai
+Working around with Fastai, motivated from Lesson 1 of Fastai tutorials:
 
 1. Classifier to classify pokemons using Fast.ai
 2. Creating an app on local to classify images
